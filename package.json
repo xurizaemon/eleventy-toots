@@ -14,7 +14,10 @@
   },
   "keywords": [
     "eleventy",
-    "eleventy-utility"
+    "eleventy-plugin",
+    "eleventy-utility",
+    "fediverse",
+    "mastodon"
   ],
   "author": {
     "name": "Chris Burgess",
