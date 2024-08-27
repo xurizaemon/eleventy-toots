@@ -1,0 +1,10 @@
+---
+# Generate output of toots/
+pagination:
+  data: toots
+  size: 1
+  alias: toot
+
+permalink: 'toots/{{ toot.guid | slugify }}.json'
+---
+{{ toot | dump | safe }}

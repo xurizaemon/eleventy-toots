@@ -1,0 +1,16 @@
+---
+pagination:
+  data: toots
+  size: 1
+  alias: toot
+
+permalink: 'toots/{{ toot.guid | slugify }}.md'
+---
+--- {# Define front-matter to appear in output #}
+layout: toot
+tags: {{ toot.categories | dump | safe }}
+date: {{ toot.isoDate }}
+---
+{{ toot.content | safe }}
+
+- {{ toot.link }} at {{ toot.isoDate }}
