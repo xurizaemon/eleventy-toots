@@ -23,4 +23,7 @@ module.exports = function(eleventyConfig, options) {
   eleventyConfig.addGlobalData("toots", async () => {
     return await fetchRSS(options.url);
   });
+  eleventyConfig.addFilter('toot_json', function(obj) {
+    return JSON.stringify(obj, null, 2);
+  })
 };

@@ -7,4 +7,4 @@ pagination:
 
 permalink: 'toots/{{ toot.guid | slugify }}.json'
 ---
-{{ toot | dump | safe }}
+{{ toot | toot_json }}
