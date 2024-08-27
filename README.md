@@ -20,8 +20,8 @@ Install using your site's package manager, eg `npm install @xurizaemon/eleventy-
 Add to your Eleventy site's `module.exports = (eleventyConfig) => {`:
 
 ```js
-  eleventyConfig.addPlugin(EleventyToots, {
-    url: 'https://example.com/@example.rss,
+eleventyConfig.addPlugin(EleventyToots, {
+  url: 'https://example.com/@example.rss,
 });
 ```
 
