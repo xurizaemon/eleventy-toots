@@ -1,20 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Sample RSS Feed</title>
-    <link>https://example.com</link>
-    <description>A sample RSS feed for testing</description>
+    <title>Example User</title>
+    <description>Public posts from @exampleuser@example.org</description>
+    <link>https://example.org/@exampleuser</link>
+    <image>
+      <url>https://assets.example.org/accounts/avatars/000/092/213/original/f089ab30875a9ad0.jpg</url>
+      <title>Example User</title>
+      <link>https://example.org/@exampleuser</link>
+    </image>
+    <lastBuildDate>Tue, 27 Aug 2024 03:39:39 +0000</lastBuildDate>
+    <webfeeds:icon>https://assets.example.org/accounts/avatars/000/092/213/original/f089ab30875a9ad0.jpg</webfeeds:icon>
+    <generator>Mastodon v4.2.11</generator>
     <item>
-      <title>Sample Toot 1</title>
-      <link>https://example.com/toot1</link>
-      <description>This is the content of sample toot 1</description>
-      <pubDate>Mon, 01 Jan 2023 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113031903914816708</guid>
+      <link>https://example.org/@exampleuser/113031903914816708</link>
+      <pubDate>Tue, 27 Aug 2024 03:39:39 +0000</pubDate>
+      <description>&lt;p&gt;finally taking the dog for a walk&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sample Toot 2</title>
-      <link>https://example.com/toot2</link>
-      <description>This is the content of sample toot 2</description>
-      <pubDate>Tue, 02 Jan 2023 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113027825347296904</guid>
+      <link>https://example.org/@exampleuser/113027825347296904</link>
+      <pubDate>Mon, 26 Aug 2024 10:22:25 +0000</pubDate>
+      <description>&lt;p&gt;go press &amp;quot;play&amp;quot; on the line charts in this article, it&amp;#39;s great, see previous boost for more&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/world/article/2024/aug/11/global-birthrates-dropping" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;theguardian.com/world/article/&lt;/span&gt;&lt;span class="invisible"&gt;2024/aug/11/global-birthrates-dropping&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113027704450615312</guid>
+      <link>https://example.org/@exampleuser/113027704450615312</link>
+      <pubDate>Mon, 26 Aug 2024 09:51:40 +0000</pubDate>
+      <description>&lt;p&gt;I see the RNZCGP logo (last one) is likely an evolution of the RCGP to which I must ask what the FUCK is up with your doctor&amp;#39;s cat&lt;/p&gt;&lt;p&gt;(it is a lynx, and the spots indicate it is all-seeing)&lt;/p&gt;&lt;p&gt;&lt;a href="https://toot.cafe/tags/heraldry" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;heraldry&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/symbology" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;symbology&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/gentian" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;gentian&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/lynx" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;lynx&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/all" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;all&lt;/span&gt;&lt;/a&gt;-seeing &lt;a href="https://toot.cafe/tags/unicorn" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;unicorn&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/barbers" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;barbers&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/owl" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;owl&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/gavel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;gavel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/snake" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;snake&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/medicine" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;medicine&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/enlightenment" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;enlightenment&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/nursing" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;nursing&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://assets.example.org/media_attachments/files/113/027/692/192/229/935/original/7c3b27dc8076ac20.png" type="image/png" fileSize="111448" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">The heraldic achievement of the Royal College of General Practitioners.
+
+Ex Wikipedia:
+
+The elements represent historical context and themes relevant to general medical practice:
+
+- The ancient lineage of medicine – the gavel entwined with the serpent of Asclepius (the Greek God of Medicine).
+- The owl of the crest represents wisdom, and night visits; the gavel, authority and decision-making.
+- The shield itself is derived from that of St Bartholomew's Hospital (the oldest extant hospital site in the UK). Its chevron in these arms represents a roof (of the house in which general practice takes place), and day and night (black/white) alluding to the 24-hour commitment of GPs to their patients.
+- The lamp represents enlightenment, the importance of study/research, and links with the lamp of nursing.
+- The doctor's compassionate and healing relationship with their patient is represented by the white poppy (the relief of pain) and the blue gentian (the restorative and rehabilitative role of the GP).
+- The supporters are a unicorn (from the arms of the Society of Apothecaries, the forerunners of General Practitioners in the UK and in whose Hall the College of General Practitioners was first housed, but also representing medicine), and a lynx (ex Arms of the Company of Barbers and Royal College of Surgeons, representing surgery). The spots on the lynx indicate its all-seeing nature, which is thought appropriate for general practice.
+- The motto is Cum Scientia Caritas.</media:description>
+      </media:content>
+      <category>heraldry</category>
+      <category>symbology</category>
+      <category>gentian</category>
+      <category>lynx</category>
+      <category>all</category>
+      <category>unicorn</category>
+      <category>barbers</category>
+      <category>owl</category>
+      <category>gavel</category>
+      <category>snake</category>
+      <category>medicine</category>
+      <category>enlightenment</category>
+      <category>nursing</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113027682185371451</guid>
+      <link>https://example.org/@exampleuser/113027682185371451</link>
+      <pubDate>Mon, 26 Aug 2024 09:46:00 +0000</pubDate>
+      <description>&lt;p&gt;some &lt;a href="https://toot.cafe/tags/nz" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;nz&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/design" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;design&lt;/span&gt;&lt;/a&gt; I liked at the doctor today&lt;/p&gt;</description>
+      <media:content url="https://assets.example.org/media_attachments/files/113/027/585/716/705/540/original/a26494e3d868afe1.png" type="image/png" fileSize="545525" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">A personified cartoon kapu tī or kawhe is making its way on foot to the CHAT CAFE whilst whistling a presumably jaunty tune.
+
+Full text (ish):
+IT'S TIME FOR CHAT CAFE
+° % @ y &amp; i V 3 &gt; @ i
+COME JOIN OUR CHAT CAFE GROUP AT THE SOUTH DUNEDIN COMMUNITY NETWORK AND ENJOY A COFFEE AND SOME KAL
+</media:description>
+      </media:content>
+      <media:content url="https://assets.example.org/media_attachments/files/113/027/597/132/218/616/original/a6d49120d041c50a.png" type="image/png" fileSize="826160" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">on a yellow background, two white hands, thumbs outside so palm up, appear to shoot ovoid bullets from the palms of the hands, but really it's the hands being washed. Design is cool, minimal, has a kinda 00's looking? I like it. The "A"s in "WASH YOUR HANDS" are slightly oversized and the text appears to be drawn or in a custom font (but I'm not a fontologist).
+
+Full text:
+WASH YOUR HANDS
+HOROPIA Ō RINGARINGA
+MINISTRY OF HEALTH, MANATŪ HAUORA</media:description>
+      </media:content>
+      <media:content url="https://assets.example.org/media_attachments/files/113/027/639/605/543/974/original/cd2e9e0ecc7b7f12.png" type="image/png" fileSize="362458" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">A ruru (owl) stands with a clipboard (or some medical tool I didn't recognise) on a heraldic shield; the shield is dominated by a glyph I don't recognise. I don't think the shield meant to be a doctor's face wearing a mask, but the suggestion is there; if so the doctor has an owl perched on their nose, and a mouth in an circle. The shield is flanked by triangular shapes filled with triangular patterns which suggest tukutuku panels. The owl, and the entire logo, are in a geometric style, blended with heraldic and Māori elements, which is a bit of an eyeful tbh. The line thicknesses suggest combining several designs in different tools, and possibly using WordArt or Corel to bend the organisation's motto to fit the design.</media:description>
+      </media:content>
+      <category>design</category>
+      <category>nz</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113025956717460827</guid>
+      <link>https://example.org/@exampleuser/113025956717460827</link>
+      <pubDate>Mon, 26 Aug 2024 02:27:12 +0000</pubDate>
+      <description>&lt;p&gt;Can&amp;#39;t help but wonder about the indigo iMac at the doctor&amp;#39;s offices. Good job that service tech!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113013523053465752</guid>
+      <link>https://example.org/@exampleuser/113013523053465752</link>
+      <pubDate>Fri, 23 Aug 2024 21:45:09 +0000</pubDate>
+      <description>&lt;p&gt;Dreamed my laptop got stolen, switched in my bag for an ancient and bullet proof looking Toshiba or Panasonic. Clearly a thief with taste and a sense of humour.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113010449770838126</guid>
+      <link>https://example.org/@exampleuser/113010449770838126</link>
+      <pubDate>Fri, 23 Aug 2024 08:43:34 +0000</pubDate>
+      <description>&lt;p&gt;different thing is different, updates to hand&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/113010448034658785</guid>
+      <link>https://example.org/@exampleuser/113010448034658785</link>
+      <pubDate>Fri, 23 Aug 2024 08:43:08 +0000</pubDate>
+      <description>&lt;p&gt;Auckland tap water tastes way different!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/112994211906033080</guid>
+      <link>https://example.org/@exampleuser/112994211906033080</link>
+      <pubDate>Tue, 20 Aug 2024 11:54:04 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://maggieappleton.com/home-cooked-software" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;maggieappleton.com/home-cooked&lt;/span&gt;&lt;span class="invisible"&gt;-software&lt;/span&gt;&lt;/a&gt; this is a pretty cool and inspiring article&lt;/p&gt;&lt;p&gt;but I&amp;#39;m tired and going to bed, will someone please remind me to read the rest tomorrow?&lt;/p&gt;&lt;p&gt;(You can do that now, 😴💤)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/112979535322243847</guid>
+      <link>https://example.org/@exampleuser/112979535322243847</link>
+      <pubDate>Sat, 17 Aug 2024 21:41:37 +0000</pubDate>
+      <description>&lt;p&gt;does `npm run` really make a call to npmjs.org? amazing&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/immich-app/immich/issues/10796" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;github.com/immich-app/immich/i&lt;/span&gt;&lt;span class="invisible"&gt;ssues/10796&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/112979526236932657</guid>
+      <link>https://example.org/@exampleuser/112979526236932657</link>
+      <pubDate>Sat, 17 Aug 2024 21:39:19 +0000</pubDate>
+      <description>&lt;p&gt;appreciating immich team sharing their cursed knowledge openly&lt;/p&gt;&lt;p&gt;&lt;a href="https://immich.app/cursed-knowledge" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;immich.app/cursed-knowledge&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://example.org/@exampleuser/112954427694085314</guid>
+      <link>https://example.org/@exampleuser/112954427694085314</link>
+      <pubDate>Tue, 13 Aug 2024 11:16:25 +0000</pubDate>
+      <description>&lt;p&gt;Cool dream last night (slightly frightening) that I was aboard an orbital flight making re-entry. The onboard computers were two SE/30 and two Color Classic Macs. The rest of the craft was pretty rickety and actually was my garage, in orbit. I was doubtful about surviving reentry given this. Briefly opened the rear door to open space, then shut it. Strapped in for the fall and hoped for the best. Who the heck sent me to space, I wanted to be home with family.&lt;/p&gt;&lt;p&gt;&lt;a href="https://toot.cafe/tags/subconscious" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;subconscious&lt;/span&gt;&lt;/a&gt; &lt;a href="https://toot.cafe/tags/wtf" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;wtf&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>subconscious</category>
+      <category>wtf</category>
     </item>
   </channel>
 </rss>
