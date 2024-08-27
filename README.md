@@ -31,6 +31,7 @@ eleventyConfig.addPlugin(EleventyToots, {
 
 | example                   | demonstrates                                  |
 |---------------------------|-----------------------------------------------|
+| `examples/toots.md`       | Build a page with a list of recent items.     |
 | `examples/toots.md.njk`   | Build a directory of Markdown from RSS items. |
 | `examples/toots.json.njk` | Build a directory of JSON from RSS items.     |
 
