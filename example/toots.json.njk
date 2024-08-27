@@ -5,6 +5,6 @@ pagination:
   size: 1
   alias: toot
 
-permalink: 'toots/{{ toot.guid | slugify }}.json'
+permalink: 'export/toots/{{ toot.guid | slugify }}.json'
 ---
 {{ toot | toot_json }}
