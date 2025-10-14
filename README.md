@@ -4,7 +4,7 @@ Feed importer integration.
 
 ## Status
 
-Initial WIP. Contribution is welcome!
+Forgotten for a year! And now I think abandoned, because [11ty/eleventy-import](https://github.com/11ty/eleventy-import) exists, and does what this aimed to.
 
 Support T&C: [no commitment, only commits](https://unmaintained.tech/)
 
